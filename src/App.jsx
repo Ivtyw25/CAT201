@@ -1,5 +1,5 @@
 import Nav from './components/Nav'
-import { Hero } from './sections'
+import Hero from './sections/Hero'
 
 const App = () => {
   return (

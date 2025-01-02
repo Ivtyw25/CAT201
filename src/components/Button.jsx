@@ -4,15 +4,17 @@ const Button = ({
     backgroundColor,
     textColor,
     borderColor,
+    fullWidth,
   }) => {
     return (
       <button
-        className={`flex justify-center items-center gap-2 px-3 py-3 border font-montserrat text-xs leading-none
+        className={`flex justify-start items-center gap-2 px-7 py-4 border 
+                    font-montserrat text-lg leading-none hover
         ${
           backgroundColor
             ? `${backgroundColor} ${textColor} ${borderColor}`
-            : "bg-coral-red text-white border-coral-red"
-        } rounded-full hover`}
+          : "bg-coral-red text-white border-coral-red"
+        } rounded-xl ${fullWidth && "w-full"}`}
       >
         {label}
   
@@ -27,5 +29,5 @@ const Button = ({
     );
   };
   
-export default Button;
+  export default Button;
   
