@@ -1,9 +1,13 @@
-import React from 'react'
+import Nav from './components/Nav'
+import { Hero } from './sections'
 
 const App = () => {
   return (
-    <main>
-      <h1 className='text-red-500'>hello</h1>
+    <main className='relative'>
+      <Nav/>
+      <section className='xl:padding-l wide:padding-r padding-b'>
+        <Hero/>
+      </section>
     </main>
   )
 }
