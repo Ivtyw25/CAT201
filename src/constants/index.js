@@ -1,6 +1,6 @@
 export const navLinks = [
     { href: "#home", label: "Home" },
-    { href: "#contact-us", label: "Contact Us" },
+    { href: "#about", label: "About Penang" },
 ];
 
 export const statistics = [

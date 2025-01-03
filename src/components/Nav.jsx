@@ -9,8 +9,8 @@ const Nav = () => {
           <img
             src={homeLogo}
             alt='logo'
-            width={100}
-            height={100}
+            width={75}
+            height={75}
             className="m-0 z-0"
         />
         </a>
