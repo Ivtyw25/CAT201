@@ -13,7 +13,7 @@ const Button = ({
         ${
           backgroundColor
             ? `${backgroundColor} ${textColor} ${borderColor}`
-          : "bg-coral-red text-white border-coral-red"
+          : "bg-pale-light-yellow text-slate-gray font-medium border-pale-light-yellow"
         } rounded-xl ${fullWidth && "w-full"}`}
       >
         {label}

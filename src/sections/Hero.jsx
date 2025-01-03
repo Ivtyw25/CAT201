@@ -4,6 +4,7 @@ import { useEffect } from 'react';
 import { gsap } from 'gsap';
 import Button from "../components/Button";
 import { rightArrow } from "../assets/icons";
+
 const Hero = () => {
 
   const src = "https://www.youtube.com/embed/gQ7bxektkU8?si=6Dq4AeRmxjNMtoBJ";
@@ -50,7 +51,7 @@ const Hero = () => {
       className='w-full flex xl:flex-row flex-col min-h-screen gap-10 max-container'
     >
         <div className='z-10 relative xl:w-3/5 flex flex-col max-xl:justify-center items-start w-full max-xl:padding-x pt-16'>
-            <p className='text text-xl font-montserrat text-coral-red'>
+            <p className='text text-xl font-semibold font-montserrat text-pale-purple'>
               Explore the beauty of Penang, Malaysia
             </p>
             <h1 className='text mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold'>
@@ -58,7 +59,7 @@ const Hero = () => {
               A Paradise
             </span>
             <br />
-            <span className='text text-coral-red inline-block mt-3'>Penang</span> Awaits
+            <span className='text text-pale-purple inline-block mt-3'>Penang</span> Awaits
             </h1>
             <p className='text font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>
               Discover the vibrant culture, stunning beaches, and delicious cuisine that make Penang, Malaysia, a must-visit destination.

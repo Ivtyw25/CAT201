@@ -14,6 +14,7 @@ export default {
       '2xl': ['24px', '29.26px'],
       '3xl': ['28px', '50px'],
       '4xl': ['48px', '58px'],
+      '6xl': ['72px', '82px'],
       '8xl': ['96px', '106px']
     },
     extend: {
@@ -22,11 +23,13 @@ export default {
         montserrat: ['Montserrat', 'sans-serif'],
       },
       colors: {
-        'primary': "#ECEEFF",
-        "coral-red": "#FF6452",
+        'primary': "#F0C1E1",
+        "pale-purple": "#CB9DF0",
         "slate-gray": "#6D6D6D",
         "pale-blue": "#F5F6FF",
-        "white-400": "rgba(255, 255, 255, 0.80)"
+        "white-400": "rgba(255, 255, 255, 0.80)",
+        "pale-brown": "#FDDBBB",
+        "pale-light-yellow" : "#FFF9BF"
       },
       boxShadow: {
         '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'

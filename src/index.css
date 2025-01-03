@@ -25,11 +25,11 @@
 
 @layer utilities {
   .hover {
-    @apply hover:bg-red-500 transform hover:scale-105 transition-transform duration-200 ease-in-out;
+    @apply hover:bg-pale-brown hover:border-pale-brown transform hover:scale-105 transition-transform duration-200 ease-in-out;
   }
   
   .padding {
-    @apply sm:px-16 px-8 sm:py-24 py-12;
+    @apply sm:px-16 px-8 sm:py-24 py-8;
   }
 
   .padding-x {

@@ -16,7 +16,7 @@ const Carousel = () => {
         ChewJetty
     ]
     return (
-        <div className="bg-[#E0C19E] w-full xl:max-w-2xl max-lg:max-w-xl mx-auto py-6 padding-x flex justify-center items-center">  {/* Container to control the carousel size */}
+        <div className="bg-pale-brown w-full max-w-xl py-6 padding-x flex justify-center items-center">  {/* Container to control the carousel size */}
             <Swiper
 
                 freeMode={true}
@@ -28,11 +28,11 @@ const Carousel = () => {
             >
                 {Images.map((item, index) => (
                     <SwiperSlide key={index}>
-                        <div className="flex flex-col bg-[#E7C8AE] gap-4 mb-6 group relative shadow-lg rounded-xl px-4 py-6 overflow-hidden">
+                        <div className="flex flex-col bg-pale-light-yellow gap-10 mb-6 group relative shadow-lg rounded-xl px-4 py-6 overflow-hidden">
                             <img
                                 src={item}
                                 alt={`Image ${index + 1}`}
-                                className="w-full h-48 object-cover rounded-lg"
+                                className="w-full h-48 max-xl:object-contain object-fill rounded-lg"
                             />
                         </div>
                     </SwiperSlide>
