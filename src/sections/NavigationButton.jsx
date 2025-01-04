@@ -34,12 +34,12 @@ const NavigationButtons= () => {
                 <h1 className="text-3xl font-bold font-palanquin">
                     Explore <span className="text-pale-purple"> popular </span> Experience
                 </h1>
-                <div className="justify-between items-center flex flex-row">
-                    <p className="mt-2 info-text">See what other travelers enjoy the most in Penang</p>
+                <div className="justify-between items-center gap-5 flex flex-row">
+                    <p className="max-md:text-sm flex-1 mt-2 info-text">See what other travelers enjoy the most in Penang</p>
                     <NavButton label="See all"/>
                 </div>
             </div>
-            <div className="mt-10 flex gap-10 flex-wrap">
+            <div className="mt-10 flex gap-10 max-w-screen-lg flex-wrap">
                 {navButtons.map((item,index) => (
                     <NavButton key={index} label={item.label} imgURL={item.imgURL}/>
                 ))}
