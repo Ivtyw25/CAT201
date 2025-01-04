@@ -9,6 +9,10 @@ import facebook from "./facebook.svg"
 import insta from "./instagram.svg"
 import whatsapp from "./whatsapp.svg"
 import copyright from "./copyright.svg"
+
+import hotel from "./hotel.png"
+import beaches from "./vacations.png"
+import fnb from "./fast-food.png"
  
 export {
     hamburger,
@@ -21,5 +25,8 @@ export {
     facebook,
     insta,
     whatsapp,
-    copyright
+    copyright,
+    hotel,
+    beaches,
+    fnb,
 }

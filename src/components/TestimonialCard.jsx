@@ -20,7 +20,7 @@ const TestimonialCard = ({ imgURL, customerName, rating, feedback }) => {
         />
         <p className='text-xl font-montserrat text-slate-gray'>({rating})</p>
       </div>
-      <h3 className='mt-2 font-palanquin text-3xl text-center font-bold'>
+      <h3 className='mt-2 font-palanquin text-xl text-center font-bold'>
         {customerName}
       </h3>
     </div>

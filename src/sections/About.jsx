@@ -32,7 +32,7 @@ const About = () => {
                 <h1 className='font-palanquin font-bold text-6xl'>
                     About <span className='text-pale-purple'> Penang </span>
                 </h1>
-                <p className='md:w-2/3 mt-2 text-lg font-montserrat leading-8 text-slate-gray'>
+                <p className='md:w-2/3 mt-2 text-base font-montserrat leading-8 text-slate-gray'>
                     Discover Penang, the "Pearl of the Orient," where rich history, diverse cultures, and breathtaking landscapes come together 
                     to offer a unique experience. Located on Malaysia's 
                     northwest coast, Penang is renowned for its vibrant city life, stunning beaches, lush hills, and mouthwatering food.
