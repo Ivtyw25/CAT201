@@ -3,17 +3,17 @@ import { FreeMode, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/free-mode";
-import { Armenian, PenangHill, KekLokSi, BotanicalGardens, ChewJetty } from "../assets/images";
+import { Homepage1, Homepage2, Homepage3, Homepage4, Homepage5} from "../assets/images";
 
 
 const Carousel = () => {
 
     const Images = [    
-        Armenian,
-        PenangHill,
-        KekLokSi,
-        BotanicalGardens, 
-        ChewJetty
+        Homepage1,
+        Homepage2,
+        Homepage3,
+        Homepage4, 
+        Homepage5
     ]
     return (
         <div className="bg-pale-brown w-full max-w-xl py-6 padding-x flex justify-center items-center">  {/* Container to control the carousel size */}
