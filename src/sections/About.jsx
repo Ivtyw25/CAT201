@@ -27,7 +27,7 @@ const About = () => {
           );
     },[])
     return (
-        <section id="about" ref={sectionRef} className='slideRight h-full w-full max-container flex gap-10 max-xl:flex-col '>
+        <section id="about" ref={sectionRef} className='slideRight w-full max-container flex gap-10 max-xl:flex-col '>
             <div className='flex flex-col justify-start gap-5 xl:w-3/5'>
                 <h1 className='font-palanquin font-bold text-6xl'>
                     About <span className='text-pale-purple'> Penang </span>

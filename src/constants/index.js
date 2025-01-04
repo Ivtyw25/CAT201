@@ -1,12 +1,14 @@
 import { food, sunset, globe } from "../assets/icons";
 import { Customer1, Customer2, Customer3 } from "../assets/images";
 import { whatsapp, facebook, insta } from "../assets/icons";
+import { beaches, hotel, fnb} from "../assets/icons";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
     { href: "#about", label: "About Penang" },
     { href: "#whyPenang", label: "Why Penang"},
-    { href: '#testimonial', label: "Testimonial"}
+    { href: '#testimonial', label: "Testimonial"},
+    { href: "#navigation", label: "Navigation"}
 ];
 
 export const statistics = [
@@ -88,3 +90,18 @@ export const footerLinks = [
         ],
     },
 ];
+
+export const navButtons = [
+    {
+        imgURL: beaches,
+        label: "Beaches"
+    },
+    {
+        imgURL: hotel,
+        label: "Hotel"
+    },
+    {
+        imgURL: fnb,
+        label: "Food & Beverages"
+    }
+]

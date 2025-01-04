@@ -11,7 +11,7 @@ const WhyPenang = () => {
       const el = sectionRef.current
       gsap.fromTo(
           el,
-          { opacity: 0, x: 100 },
+          { opacity: 0, x: -100 },
           {
             opacity: 1,
             x: 0,
@@ -29,7 +29,7 @@ const WhyPenang = () => {
   },[])
   return (
     <section id="whyPenang" ref={sectionRef} className="flex flex-col max-container gap-10">
-        <h1 className="text-6xl font-palanquin font-bold"> What so nice of <span className="text-pale-purple">Penang</span> ?</h1>
+        <h1 className="text-4xl font-palanquin font-bold"> What so nice of <span className="text-pale-purple">Penang</span> ?</h1>
         <section className='flex justify-center flex-wrap gap-9'>
             {funfact.map((item) => (
                 <WhyPenangCard key={item.label} {...item} />

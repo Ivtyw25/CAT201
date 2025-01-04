@@ -4,6 +4,7 @@ import About  from './sections/About'
 import WhyPenang from './sections/WhyPenang'
 import Testimonials from './sections/Testimonials'
 import Footer from './sections/Footer'
+import NavigationButtons from './sections/NavigationButton'
 
 const App = () => {
   return (
@@ -14,6 +15,9 @@ const App = () => {
       </section>
       <section className='padding-x padding-t'>
         <About/>
+      </section>
+      <section className='padding-x padding-t'>
+        <NavigationButtons/>
       </section>
       <section className='padding'>
         <WhyPenang/>
