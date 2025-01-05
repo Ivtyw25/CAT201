@@ -17,7 +17,7 @@ import culture from "./culture.png"
 import nature from "./nature.png"
 import farm from "./farm.png"
 import themepark from "./themepark.png"
-import vehicle from "./vehicle.png"
+import vehicle from "./car.png"
 
 export {
     hamburger,

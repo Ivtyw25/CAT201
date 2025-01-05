@@ -6,6 +6,7 @@ import BotanicalGardens from "./penang_botanical_gardens.jpg"
 import Customer1 from "./customer1.jpeg"
 import Customer2 from "./customer2.svg"
 import Customer3 from "./customer3.jpg"
+import BalikPulauCycling from "./balik_pulau_cycling.jpg"
 
 export {
     Armenian,
@@ -15,5 +16,6 @@ export {
     BotanicalGardens,
     Customer1,
     Customer2,
-    Customer3
+    Customer3,
+    BalikPulauCycling
 }

@@ -11,7 +11,7 @@ const WhyPenang = () => {
       const el = sectionRef.current
       gsap.fromTo(
           el,
-          { opacity: 0, x: -100 },
+          { opacity: 0, x: 100 },
           {
             opacity: 1,
             x: 0,

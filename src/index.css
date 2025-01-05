@@ -31,6 +31,10 @@
   .hover-2 {
     @apply hover:bg-black hover:text-white transform hover:scale-105 transition-transform duration-200 ease-in-out;
   }
+
+  .hover-card{
+    @apply hover:transform hover:scale-110 transition-transform duration-200 ease-in-out
+  }
   
   .padding {
     @apply sm:px-16 px-8 sm:py-24 py-8;

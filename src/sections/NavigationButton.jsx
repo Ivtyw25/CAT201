@@ -3,6 +3,7 @@ import { useEffect, useRef } from "react"
 import ScrollTrigger from "gsap/ScrollTrigger"
 import { navButtons } from "../constants";
 import NavButton from "../components/NavButton";
+import Line from "../components/Line";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -44,6 +45,7 @@ const NavigationButtons= () => {
                     <NavButton key={index} label={item.label} imgURL={item.imgURL}/>
                 ))}
             </div>
+            <Line/>
         </section>
     )
 }

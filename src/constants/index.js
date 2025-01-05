@@ -2,6 +2,7 @@ import { food, sunset, globe } from "../assets/icons";
 import { Customer1, Customer2, Customer3 } from "../assets/images";
 import { whatsapp, facebook, insta } from "../assets/icons";
 import { beaches, hotel, fnb, culture, nature, vehicle, themepark, farm} from "../assets/icons";
+import { BalikPulauCycling } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -125,4 +126,39 @@ export const navButtons = [
         imgURL: farm,
         label: "Farm & Animals"
     },
+]
+
+export const mustDo = [
+    {
+        title: "Cycling at Balik Pulau",
+        rating: "4.9",
+        category: "outdoor",
+        location: "Balik Pulau @ Balik Kampung",
+        price: 10,
+        imgURL: BalikPulauCycling
+    },
+    {
+        title: "Cycling at Balik Pulau",
+        rating: "4.9",
+        category: "outdoor",
+        location: "Balik Pulau @ Balik Kampung",
+        price: 10,
+        imgURL: BalikPulauCycling
+    },
+    {
+        title: "Cycling at Balik Pulau",
+        rating: "4.9",
+        category: "outdoor",
+        location: "Balik Pulau @ Balik Kampung",
+        price: 10,
+        imgURL: BalikPulauCycling
+    },
+    {
+        title: "Cycling at Balik Pulau",
+        rating: "4.9",
+        category: "outdoor",
+        location: "Balik Pulau @ Balik Kampung",
+        price: 10,
+        imgURL: BalikPulauCycling
+    }
 ]
