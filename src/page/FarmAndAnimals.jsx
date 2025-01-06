@@ -1,9 +1,16 @@
-import {useEffect, useState} from 'react'
-import {AudiDreamFarm,
-        BaoShengDurain,
+import { useEffect, useState } from 'react'
+import {
+        AudiDreamFarm,
+        BaoShengDurian,
         SaanenDairyGoatFarm,
         TropicalFruitFarm,
-        Entopia} from '../assets/images'
+        Entopia
+    } from '../assets/images'
+import ItemCard from '../components/ItemCard';
+import Nav from '../components/Nav';
+import SideNav from '../components/SideNav';
+import Footer from '../sections/Footer';
+
 
 
 const FarmAndAnimals = () => {
@@ -42,29 +49,39 @@ const FarmAndAnimals = () => {
 
     const imageMap = {
         AudiDreamFarm,
-        BaoShengDurain,
+        BaoShengDurian,
         SaanenDairyGoatFarm,
         TropicalFruitFarm,
         Entopia
     };
 
     return (
-        <div>
-            <h1>Culture & Heritage</h1>
-            <ul>
-                {data.map((item) => (
-                    <li key={item.id}>
-                        <h2>{item.title}</h2>
-                        <p>{item.description}</p>
-                        <p>Address: {item.address}</p>
-                        <p>Rating: {item.rating}</p>
-                        {item.image && (
-                            <img src={imageMap[item.image]} alt={item.title} />
-                        )}
-                    </li>
-                ))}
-            </ul>
-        </div>
+        <main className='relative'>
+        <Nav/>
+        <section className='padding-x padding-t'>
+            <section className='max-container'>
+                <div className='flex flex-row max-lg:flex-col gap-10'>
+                    <SideNav/>
+                    <div className='grid grid-cols-1 gap-10'>
+                        {data.map((data,index) => (
+                            <ItemCard 
+                                index={index}
+                                key={index}
+                                title={data.title}
+                                rating={data.rating}
+                                description={data.description}
+                                price={data.price}
+                                address={data.address}
+                                image={imageMap[data.image]}/>
+                        ))}
+                    </div>
+                </div>
+            </section>
+        </section>
+        <section className='bg-black padding-x padding-t mt-20 pb-8'>
+            <Footer/>
+        </section>
+    </main>
     );
 }
 

@@ -35,7 +35,7 @@ import PenangHillMosque from './penang_hill_mosque.jpg'
 import PenangStreetWallMurals from './penang_street_wall_murals.jpg'
 import QueenVictoriaMemorialClockTower from './queen_victoria_memorial_clock_tower.jpg'
 import AayuMelayu from './aayu_melayu.jpg'
-import BayviewHotel from './bayview_hotel.jpg'
+import BayViewHotel from './bayview_hotel.jpg'
 import CititelExpressHotel from './cititel_express_hotel.jpg'
 import CitivillaHotel from './citivilla_hotel.jpg'
 import Cocoa from './cocoa.jpg'
@@ -50,7 +50,7 @@ import PantaiTropika from './pantai_tropika.jpg'
 import TanjungBungah from './tanjung_bungah.jpg'
 import TelukBahangBeach from './teluk_bahang_beach.jpg'
 import AudiDreamFarm from './audi_dream_farm.jpg'
-import BaoShengDurain from './bao_sheng_durian_farm.jpg'
+import BaoShengDurian from './bao_sheng_durian_farm.jpg'
 import SaanenDairyGoatFarm from './saanen_dairy_goat_farm.jpg'
 import TropicalFruitFarm from './tropical_fruit_farm.jpg'
 import Entopia from './entopia.jpg'
@@ -101,7 +101,7 @@ export {
     PenangStreetWallMurals,
     QueenVictoriaMemorialClockTower,
     AayuMelayu,
-    BayviewHotel,
+    BayViewHotel,
     CititelExpressHotel,
     CitivillaHotel,
     Cocoa,
@@ -116,7 +116,7 @@ export {
     TanjungBungah,
     TelukBahangBeach,
     AudiDreamFarm,
-    BaoShengDurain,
+    BaoShengDurian,
     SaanenDairyGoatFarm,
     TropicalFruitFarm,
     Entopia,
