@@ -104,7 +104,8 @@ export const navButtons = [
     },
     {
         imgURL: fnb,
-        label: "Food & Beverages"
+        label: "Food & Beverages",
+        route: "/foodandbeverage"
     },
     {
         imgURL: culture,
