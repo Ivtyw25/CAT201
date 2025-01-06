@@ -32,8 +32,12 @@
     @apply hover:bg-black hover:text-white transform hover:scale-105 transition-transform duration-200 ease-in-out;
   }
 
-  .hover-card{
+  .hover-card {
     @apply hover:transform hover:scale-110 transition-transform duration-200 ease-in-out
+  }
+
+  .hover-card-2 {
+    @apply hover:transform hover:scale-105 transition-transform duration-200 ease-in-out
   }
   
   .padding {

@@ -109,11 +109,13 @@ export const navButtons = [
     },
     {
         imgURL: culture,
-        label: "Culture & Heritages"
+        label: "Culture & Heritages",
+        route: "/cultureandheritage"
     },
     {
         imgURL: nature,
-        label: "Nature & Wildlife"
+        label: "Nature & Wildlife",
+        route: "/natureandwildlife"
     },
     {
         imgURL: themepark,
