@@ -129,7 +129,8 @@ export const navButtons = [
     },
     {
         imgURL: farm,
-        label: "Farm & Animals"
+        label: "Farm & Animals",
+        route: "farmandanimals"
     },
 ]
 

@@ -49,6 +49,11 @@ import KerachutBeach from './kerachut_beach.jpg'
 import PantaiTropika from './pantai_tropika.jpg'
 import TanjungBungah from './tanjung_bungah.jpg'
 import TelukBahangBeach from './teluk_bahang_beach.jpg'
+import AudiDreamFarm from './audi_dream_farm.jpg'
+import BaoShengDurain from './bao_sheng_durian_farm.jpg'
+import SaanenDairyGoatFarm from './saanen_dairy_goat_farm.jpg'
+import TropicalFruitFarm from './tropical_fruit_farm.jpg'
+import Entopia from './entopia.jpg'
 
 export {
     Armenian,
@@ -101,5 +106,10 @@ export {
     KerachutBeach,
     PantaiTropika,
     TanjungBungah,
-    TelukBahangBeach
+    TelukBahangBeach,
+    AudiDreamFarm,
+    BaoShengDurain,
+    SaanenDairyGoatFarm,
+    TropicalFruitFarm,
+    Entopia
 }

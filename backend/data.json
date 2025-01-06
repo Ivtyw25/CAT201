@@ -343,7 +343,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Teluk Bahang, Penang",
         "price": "RM 50 - RM 70 (depending on age and package)",
-        "image": ""
+        "image": "Entopia"
     },
     {
         "id": "2",
@@ -352,7 +352,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 30 - RM 60 (depending on package)",
-        "image": ""
+        "image": "TropicalFruitFarm"
     },
     {
         "id": "3",
@@ -361,7 +361,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 40 - RM 80 (for durian tasting and tour)",
-        "image": ""
+        "image": "BaoShengDurainFarm"
     },
     {
         "id": "4",
@@ -370,7 +370,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 10 - RM 20 (for entry and activities)",
-        "image": ""
+        "image": "SaanenDairyGoatFarm"
     },
     {
         "id": "5",
@@ -379,7 +379,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 10 - RM 20 (for entry and activities)",
-        "image": ""
+        "image": "AudiDreamFarm"
     }
 ],
 
