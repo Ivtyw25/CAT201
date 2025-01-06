@@ -109,7 +109,8 @@ export const navButtons = [
     },
     {
         imgURL: culture,
-        label: "Culture & Heritages"
+        label: "Culture & Heritages",
+        route: "/cultureandheritage"
     },
     {
         imgURL: nature,

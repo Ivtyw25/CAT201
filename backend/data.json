@@ -73,7 +73,7 @@
             "description": "The Penang Hill Mosque is a serene and picturesque place of worship situated atop Penang Hill. Its modern Islamic architecture blends harmoniously with the lush greenery of its surroundings. The mosque serves both locals and tourists, offering a tranquil space for prayer and reflection. Visitors are captivated by the stunning panoramic views of George Town and the island from its vicinity. It stands as a symbol of peace and unity for the multicultural community in Penang.",
             "address": "Penang Hill, George Town",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "PenangHillMosque"
         },
         {
             "id": 2,
@@ -81,7 +81,7 @@
             "description": "Clan Jetty is a historic waterfront settlement that dates back to the 19th century, housing Penang’s Chinese clans. Built on stilts over the water, these wooden houses and walkways reflect the unique heritage of Penang's early Chinese immigrants. Each jetty is named after a specific clan, such as the Chew Jetty, the most well-known among tourists. The area is a bustling hub, offering insight into traditional lifestyles, with vibrant festivals celebrated during major Chinese events. Visitors often enjoy the scenic view of the waterfront and the warm hospitality of the local community.",
             "address": "Weld Quay, George Town",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "ClanJetty"
         },
         {
             "id": 3,
@@ -89,7 +89,7 @@
             "description": "The Penang Street Wall Murals are an iconic part of George Town’s UNESCO World Heritage Site. Created by Lithuanian artist Ernest Zacharevic, the murals depict scenes of everyday life and cultural heritage in a whimsical style. These interactive artworks often incorporate real objects, such as a bicycle or a swing, making them a favorite photo spot for visitors. The murals have revitalized the old streets of George Town, blending art with heritage. Exploring these murals is a must-do activity for anyone visiting Penang.",
             "address": "George Town, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "PenangStreetWallMurals"
         },
         {
             "id": 4,
@@ -97,7 +97,7 @@
             "description": "Khoo Kongsi is one of the grandest Chinese clan houses in Malaysia, showcasing the rich cultural heritage of the Khoo clan. Built in the 19th century, its ornate architecture and intricate carvings are a testament to traditional Chinese craftsmanship. The clan house serves as a cultural and community center, preserving the clan's history and heritage. Visitors can explore the courtyard, ancestral hall, and exhibits that highlight the life of early Chinese settlers in Penang. Khoo Kongsi is a must-visit landmark for its cultural significance and architectural splendor.",
             "address": "Cannon Square, George Town",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "KhooKongsi"
         },
         {
             "id": 5,
@@ -105,7 +105,7 @@
             "description": "The Esplanade is a scenic waterfront promenade in the heart of George Town, offering breathtaking views of the sea. It is a popular gathering spot for both locals and tourists, often hosting cultural events and public performances. The site is surrounded by historical landmarks, including Fort Cornwallis and City Hall, adding to its charm. Visitors can stroll along the promenade, enjoy the cool sea breeze, and savor local street food at nearby hawker stalls. The Esplanade is a vibrant and iconic location that showcases the spirit of Penang.",
             "address": "Esplanade Road, George Town",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "Esplanade"
         },
         {
             "id": 6,
@@ -113,7 +113,7 @@
             "description": "The Queen Victoria Memorial Clock Tower is a prominent colonial-era landmark in Penang, built in 1897 to commemorate Queen Victoria’s Diamond Jubilee. Standing 60 feet tall, the tower's design blends Moorish and Victorian architectural styles. Each foot of the structure represents a year of Queen Victoria’s reign. The clock tower remains a historical and cultural icon, situated near Fort Cornwallis and the waterfront. Visitors are drawn to its elegance and the nostalgic charm it brings to George Town's heritage landscape.",
             "address": "Light Street, George Town",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "QueenVictoriaMemorialClockTower"
         },
         {
             "id": 7,
@@ -121,7 +121,7 @@
             "description": "City Hall and Town Hall are majestic colonial buildings that reflect Penang’s rich architectural heritage. Built during the British colonial era, these structures showcase Edwardian Baroque and Palladian styles. The City Hall is still in use as a government office, while the Town Hall serves as a venue for events and exhibitions. Both buildings are located near the Esplanade, offering a picturesque setting for photography enthusiasts. They stand as symbols of Penang's historical significance and cultural diversity.",
             "address": "Padang Kota Lama, George Town",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "CityHallAndTownHall"
         },
         {
             "id": 8,
@@ -129,7 +129,7 @@
             "description": "Fort Cornwallis is the largest standing fort in Malaysia, built in the late 18th century by the British East India Company. Named after Charles Cornwallis, the fort was constructed to protect Penang from naval attacks. Today, it serves as a historical site, featuring cannons, a lighthouse, and exhibits detailing Penang’s colonial history. Visitors can explore the fort’s well-preserved structures and learn about its strategic importance. Fort Cornwallis is a key attraction for history enthusiasts and those interested in Penang’s colonial past.",
             "address": "Jalan Tun Syed Sheh Barakbah, George Town",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "FortCornwallis"
         }
 
         ],

@@ -26,6 +26,14 @@ import SundaColugo from './sunda_colugo.jpg'
 import SundaSlowLoris from './sunda_slow_loris.jpg'
 import TheHabitatPenangHill from './the_habitat_penang_hill.jpg'
 import WildBoar from './wild_boar.jpg'
+import CityHallAndTownHall from './city_hall_and_town_hall.jpg'
+import ClanJetty from './clan_jetty.jpg'
+import Esplanade from './esplanade.jpg'
+import FortCornwallis from './fort_cornwallis.jpg'
+import KhooKongsi from './khoo_kongsi.jpg'
+import PenangHillMosque from './penang_hill_mosque.jpg'
+import PenangStreetWallMurals from './penang_street_wall_murals.jpg'
+import QueenVictoriaMemorialClockTower from './queen_victoria_memorial_clock_tower.jpg'
 
 export {
     Armenian,
@@ -56,4 +64,12 @@ export {
     SundaSlowLoris,
     TheHabitatPenangHill,
     WildBoar,
+    CityHallAndTownHall,
+    ClanJetty,
+    Esplanade,
+    FortCornwallis,
+    KhooKongsi,
+    PenangHillMosque,
+    PenangStreetWallMurals,
+    QueenVictoriaMemorialClockTower,
 }
