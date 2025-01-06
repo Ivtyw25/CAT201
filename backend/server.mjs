@@ -1,7 +1,12 @@
 import express from 'express';
 import { readFile } from 'fs/promises';
+import cors from 'cors';
+
+
 const app = express();
+app.use(cors());
 const PORT = 5000;
+
 // Cache the JSON data on server start
 let cacheData = {};
 // Function to read and parse the JSON data
