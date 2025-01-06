@@ -54,6 +54,10 @@ import BaoShengDurain from './bao_sheng_durian_farm.jpg'
 import SaanenDairyGoatFarm from './saanen_dairy_goat_farm.jpg'
 import TropicalFruitFarm from './tropical_fruit_farm.jpg'
 import Entopia from './entopia.jpg'
+import DipPlayCafe from './dip_play_cafe.jpg'
+import EscapeThemePark from './escape_theme_park.jpg'
+import Kidland from './kidland.jpg'
+import TheTopPenang from './the_top_penang.jpg'
 
 export {
     Armenian,
@@ -111,5 +115,9 @@ export {
     BaoShengDurain,
     SaanenDairyGoatFarm,
     TropicalFruitFarm,
-    Entopia
+    Entopia,
+    DipPlayCafe,
+    EscapeThemePark,
+    Kidland,
+    TheTopPenang
 }

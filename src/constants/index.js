@@ -121,7 +121,8 @@ export const navButtons = [
     },
     {
         imgURL: themepark,
-        label: "Themeparks"
+        label: "Themeparks",
+        route: "/themeparks"
     },
     {
         imgURL: vehicle,
@@ -130,7 +131,7 @@ export const navButtons = [
     {
         imgURL: farm,
         label: "Farm & Animals",
-        route: "farmandanimals"
+        route: "/farmandanimals"
     },
 ]
 

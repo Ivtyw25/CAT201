@@ -6,6 +6,7 @@ import CultureAndHeritage from "./page/CultureAndHeritage"
 import Accommodations from "./page/Accommodations";
 import Beaches from "./page/Beaches";
 import FarmAndAnimals from "./page/FarmAndAnimals";
+import Themeparks from "./page/Themeparks";
 
 export const router = createBrowserRouter([
     {path: "/", element: <App/>},
@@ -14,5 +15,6 @@ export const router = createBrowserRouter([
     {path: "/cultureandheritage", element: <CultureAndHeritage/>},
     {path: "/accommodations", element: <Accommodations/>},
     {path: "/beaches", element: <Beaches/>},
-    {path: "/farmandanimals", element: <FarmAndAnimals/>}
+    {path: "/farmandanimals", element: <FarmAndAnimals/>},
+    {path: "/themeparks", element: <Themeparks/>}
 ]);

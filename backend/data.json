@@ -391,7 +391,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Teluk Bahang, Penang",
         "price": "RM 70 - RM 140 (depending on package)",
-        "image": ""
+        "image": "EscapeThemePark"
     },
     {
         "id": "2",
@@ -400,7 +400,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Komtar, George Town, Penang",
         "price": "RM 40 - RM 60 (depending on attractions)",
-        "image": ""
+        "image": "TheTopPenang"
     },
     {
         "id": "3",
@@ -409,7 +409,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 30 - RM 50 (per child)",
-        "image": ""
+        "image": "Kidland"
     },
     {
         "id": "4",
@@ -418,7 +418,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 10 - RM 25 (for play area, food and drinks extra)",
-        "image": ""
+        "image": "DipPlayCafe"
     }
 ],
 
