@@ -208,14 +208,14 @@
 
         ],
 
-    "Accomodations": [
+    "Accommodations": [
     {
         "id": 1,
-        "title": "JomStay At Penang",
+        "title": "JomStay At Georgetown",
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 120 - RM 250 per night",
-        "image": ""
+        "image": "JomstayAtGeorgetown"
     },
     {
         "id": 2,
@@ -223,7 +223,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 150 - RM 300 per night",
-        "image": ""
+        "image": "AayuMelayu"
     },
     {
         "id": 3,
@@ -231,7 +231,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 180 - RM 350 per night",
-        "image": ""
+        "image": "BayViewHotel"
     },
     {
         "id": 4,
@@ -239,7 +239,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 200 - RM 400 per night",
-        "image": ""
+        "image": "GrandSwissHotel"
     },
     {
         "id": 5,
@@ -247,7 +247,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 130 - RM 250 per night",
-        "image": ""
+        "image": "KimberleyHotel"
     },
     {
         "id": 6,
@@ -255,7 +255,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 50 - RM 150 per night",
-        "image": ""
+        "image": "TidoPenangHostel"
     },
     {
         "id": 7,
@@ -263,7 +263,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 140 - RM 280 per night",
-        "image": ""
+        "image": "CititelExpressHotel"
     },
     {
         "id": 8,
@@ -271,7 +271,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 90 - RM 200 per night",
-        "image": ""
+        "image": "TuneHotel"
     },
     {
         "id": 9,
@@ -279,7 +279,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 150 - RM 300 per night",
-        "image": ""
+        "image": "CitivillaHotel"
     },
     {
         "id": 10,
@@ -287,7 +287,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 100 - RM 220 per night",
-        "image": ""
+        "image": "Cocoa"
     }
 ],
 

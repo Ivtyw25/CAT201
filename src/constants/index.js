@@ -100,7 +100,8 @@ export const navButtons = [
     },
     {
         imgURL: hotel,
-        label: "Hotel"
+        label: "Hotel",
+        route: "/accommodations"
     },
     {
         imgURL: fnb,

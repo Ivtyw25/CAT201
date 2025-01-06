@@ -34,6 +34,16 @@ import KhooKongsi from './khoo_kongsi.jpg'
 import PenangHillMosque from './penang_hill_mosque.jpg'
 import PenangStreetWallMurals from './penang_street_wall_murals.jpg'
 import QueenVictoriaMemorialClockTower from './queen_victoria_memorial_clock_tower.jpg'
+import AayuMelayu from './aayu_melayu.jpg'
+import BayviewHotel from './bayview_hotel.jpg'
+import CititelExpressHotel from './cititel_express_hotel.jpg'
+import CitivillaHotel from './citivilla_hotel.jpg'
+import Cocoa from './cocoa.jpg'
+import GrandSwissHotel from './grand_swiss_hotel.jpg'
+import JomstayAtGeorgetown from './jomstay_at_georgetown.jpg'
+import KimberleyHotel from './kimberley_hotel.jpg'
+import TidoPenangHostel from './tido_penang_hostel.jpg'
+import TuneHotel from './tune_hotel.jpg'
 
 export {
     Armenian,
@@ -72,4 +82,14 @@ export {
     PenangHillMosque,
     PenangStreetWallMurals,
     QueenVictoriaMemorialClockTower,
+    AayuMelayu,
+    BayviewHotel,
+    CititelExpressHotel,
+    CitivillaHotel,
+    Cocoa,
+    GrandSwissHotel,
+    JomstayAtGeorgetown,
+    KimberleyHotel,
+    TidoPenangHostel,
+    TuneHotel,
 }
