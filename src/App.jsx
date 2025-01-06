@@ -6,11 +6,12 @@ import Testimonials from './sections/Testimonials'
 import Footer from './sections/Footer'
 import NavigationButtons from './sections/NavigationButton'
 import MustDo from './sections/MustDo'
+import { navLinks } from './constants'
 
 const App = () => {
   return (
     <main className='relative'>
-      <Nav/>
+      <Nav navLinks={navLinks}/>
       <section className='xl:padding-l wide:padding-r padding-b'>
         <Hero/>
       </section>

@@ -1,8 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
-import FoodAndBeverage from "./sections/page/FoodAndBeverage";
+import FoodAndBeverage from "./page/FoodAndBeverage";
 
 export const router = createBrowserRouter([
     {path: "/", element: <App/>},
-    {path: "/foodandbeverage", element: <FoodAndBeverage/>},
+    {path: "/FoodAndBeverage", element: <FoodAndBeverage/>},
     ]);

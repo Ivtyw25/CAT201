@@ -1,8 +1,8 @@
 const FoodAndBeverage = () => {
   return (
-    <div>
-      this is food and beverage
-    </div>
+    <main className="relative">
+
+    </main>
   )
 }
 
