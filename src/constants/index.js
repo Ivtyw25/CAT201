@@ -96,7 +96,8 @@ export const footerLinks = [
 export const navButtons = [
     {
         imgURL: beaches,
-        label: "Beaches"
+        label: "Beaches",
+        route: "/beaches"
     },
     {
         imgURL: hotel,

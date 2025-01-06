@@ -298,7 +298,7 @@
             "description": "Pantai Tropika is a hidden gem in Penang, known for its pristine sands and serene atmosphere. This tranquil beach is perfect for those seeking relaxation away from the crowds. Its picturesque surroundings make it a great spot for photography and peaceful strolls.",
             "address": "Pantai Tropika, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "PantaiTropika"
         },
         {
             "id": 2,
@@ -306,7 +306,7 @@
             "description": "Tanjung Bungah is a popular beach destination, offering calm waters and stunning views. It is ideal for swimming, picnics, and family outings. Visitors can also enjoy nearby resorts and local seafood restaurants for a complete beach experience.",
             "address": "Tanjung Bungah, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "TanjungBungah"
         },
         {
             "id": 3,
@@ -314,7 +314,7 @@
             "description": "Teluk Bahang Beach is located near the Penang National Park, offering a peaceful retreat surrounded by nature. Its clear waters and lush greenery attract both locals and tourists. The beach is also a starting point for boat trips to other scenic spots in the area.",
             "address": "Teluk Bahang, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "TelukBahangBeach"
         },
         {
             "id": 4,
@@ -322,7 +322,7 @@
             "description": "Kerachut Beach is a secluded paradise within Penang National Park, famous for its Turtle Sanctuary. Accessible via hiking trails or boat rides, it is perfect for nature lovers. Its pristine beauty and serene environment make it a must-visit beach in Penang.",
             "address": "Teluk Bahang, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "KerachutBeach"
         },
         {
             "id": 5,
@@ -330,7 +330,7 @@
             "description": "Batu Ferringhi is one of Penang’s most famous beaches, known for its vibrant nightlife and water sports activities. Visitors can enjoy jet skiing, parasailing, or simply relax by the shore. The nearby night market and dining options add to its appeal, making it a lively destination.",
             "address": "Batu Ferringhi, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "BatuFerringhi"
         }
 
     ],

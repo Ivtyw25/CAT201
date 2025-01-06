@@ -44,6 +44,11 @@ import JomstayAtGeorgetown from './jomstay_at_georgetown.jpg'
 import KimberleyHotel from './kimberley_hotel.jpg'
 import TidoPenangHostel from './tido_penang_hostel.jpg'
 import TuneHotel from './tune_hotel.jpg'
+import BatuFerringhi from './batu_ferringhi.jpg'
+import KerachutBeach from './kerachut_beach.jpg'
+import PantaiTropika from './pantai_tropika.jpg'
+import TanjungBungah from './tanjung_bungah.jpg'
+import TelukBahangBeach from './teluk_bahang_beach.jpg'
 
 export {
     Armenian,
@@ -92,4 +97,9 @@ export {
     KimberleyHotel,
     TidoPenangHostel,
     TuneHotel,
+    BatuFerringhi,
+    KerachutBeach,
+    PantaiTropika,
+    TanjungBungah,
+    TelukBahangBeach
 }
