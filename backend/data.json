@@ -429,7 +429,7 @@
         "description": "Rapid Penang is the island's primary public bus service, offering affordable and reliable transportation. The buses connect major attractions, residential areas, and towns across Penang, including George Town and Balik Pulau. With air-conditioned comfort and frequent schedules, it's a popular choice for locals and tourists alike.",
         "rating": "⭐⭐⭐⭐",
         "price": "RM 1 - RM 5",
-        "image": ""
+        "image": "RapidPenangBus"
     },
     {
         "id": "2",
@@ -437,7 +437,7 @@
         "description": "The Penang Ferry is an iconic mode of transportation connecting Butterworth on the mainland to George Town on the island. It offers scenic views of the coastline and a unique way to experience Penang’s maritime heritage. The ferry accommodates both passengers and vehicles, making it a convenient option.",
         "rating": "⭐⭐⭐⭐⭐",
         "price": "RM 1.20 - RM 7.00 (varies by vehicle)",
-        "image": ""
+        "image": "PenangFerry"
     },
     {
         "id": "3",
@@ -445,7 +445,7 @@
         "description": "Trishaws, or becas, are a nostalgic and eco-friendly way to explore the streets of George Town. Operated by local riders, they provide a slow-paced and scenic tour of the city’s heritage sites. It’s a charming option for tourists seeking an authentic Penang experience.",
         "rating": "⭐⭐⭐⭐",
         "price": "RM 40 - RM 60 (per hour)",
-        "image": ""
+        "image": "Trishaw"
     },
     {
         "id": "4",
@@ -453,24 +453,9 @@
         "description": "Penang International Airport serves as the main gateway to the island, connecting it to both domestic and international destinations. Located in Bayan Lepas, it offers a range of facilities, including restaurants, shops, and transportation services. The airport is a hub for travelers exploring Penang and beyond.",
         "rating": "⭐⭐⭐⭐⭐",
         "price": "Varies by flight",
-        "image": ""
-    },
-    {
-        "id": "5",
-        "title": "Motorcycle Rentals",
-        "description": "Motorcycle rentals are a popular choice for exploring Penang, offering flexibility and ease of navigation. Affordable and efficient, they allow travelers to reach hidden gems and scenic spots at their own pace. Riding through the island’s roads is a thrilling way to experience its culture and nature.",
-        "rating": "⭐⭐⭐⭐",
-        "price": "RM 30 - RM 60 (per day)",
-        "image": ""
-    },
-    {
-        "id": "6",
-        "title": "Grab (E-Hailing)",
-        "description": "Grab is Penang’s most widely used e-hailing service, offering convenient and efficient transportation. With competitive pricing and availability across the island, it’s ideal for short trips or getting to remote locations. The app-based service provides a hassle-free travel option for both locals and tourists.",
-        "rating": "⭐⭐⭐⭐⭐",
-        "price": "RM 6 - RM 40 (depending on distance)",
-        "image": ""
+        "image": "PenangInternationalAirport"
     }
+
 ]
 
 }

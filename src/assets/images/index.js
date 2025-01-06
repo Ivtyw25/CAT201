@@ -58,6 +58,10 @@ import DipPlayCafe from './dip_play_cafe.jpg'
 import EscapeThemePark from './escape_theme_park.jpg'
 import Kidland from './kidland.jpg'
 import TheTopPenang from './the_top_penang.jpg'
+import RapidPenangBus from './rapid_penang_bus.jpg'
+import PenangFerry from './penang_ferry.jpg'
+import PenangInternationalAirport from './penang_international_airport.jpg'
+import Trishaw from './trishaw.jpg'
 
 export {
     Armenian,
@@ -119,5 +123,9 @@ export {
     DipPlayCafe,
     EscapeThemePark,
     Kidland,
-    TheTopPenang
+    TheTopPenang,
+    RapidPenangBus,
+    PenangFerry,
+    PenangInternationalAirport,
+    Trishaw
 }

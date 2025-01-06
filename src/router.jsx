@@ -7,6 +7,7 @@ import Accommodations from "./page/Accommodations";
 import Beaches from "./page/Beaches";
 import FarmAndAnimals from "./page/FarmAndAnimals";
 import Themeparks from "./page/Themeparks";
+import Transportations from "./page/Transportations";
 
 export const router = createBrowserRouter([
     {path: "/", element: <App/>},
@@ -16,5 +17,6 @@ export const router = createBrowserRouter([
     {path: "/accommodations", element: <Accommodations/>},
     {path: "/beaches", element: <Beaches/>},
     {path: "/farmandanimals", element: <FarmAndAnimals/>},
-    {path: "/themeparks", element: <Themeparks/>}
+    {path: "/themeparks", element: <Themeparks/>},
+    {path: "/transportations", element: <Transportations/>}
 ]);
