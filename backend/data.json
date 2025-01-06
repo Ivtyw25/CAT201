@@ -208,14 +208,14 @@
 
         ],
 
-    "Accomodations": [
+    "Accommodations": [
     {
         "id": 1,
-        "title": "JomStay At Penang",
+        "title": "JomStay At Georgetown",
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 120 - RM 250 per night",
-        "image": ""
+        "image": "JomstayAtGeorgetown"
     },
     {
         "id": 2,
@@ -223,7 +223,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 150 - RM 300 per night",
-        "image": ""
+        "image": "AayuMelayu"
     },
     {
         "id": 3,
@@ -231,7 +231,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 180 - RM 350 per night",
-        "image": ""
+        "image": "BayViewHotel"
     },
     {
         "id": 4,
@@ -239,7 +239,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 200 - RM 400 per night",
-        "image": ""
+        "image": "GrandSwissHotel"
     },
     {
         "id": 5,
@@ -247,7 +247,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 130 - RM 250 per night",
-        "image": ""
+        "image": "KimberleyHotel"
     },
     {
         "id": 6,
@@ -255,7 +255,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 50 - RM 150 per night",
-        "image": ""
+        "image": "TidoPenangHostel"
     },
     {
         "id": 7,
@@ -263,7 +263,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 140 - RM 280 per night",
-        "image": ""
+        "image": "CititelExpressHotel"
     },
     {
         "id": 8,
@@ -271,7 +271,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 90 - RM 200 per night",
-        "image": ""
+        "image": "TuneHotel"
     },
     {
         "id": 9,
@@ -279,7 +279,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 150 - RM 300 per night",
-        "image": ""
+        "image": "CitivillaHotel"
     },
     {
         "id": 10,
@@ -287,7 +287,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 100 - RM 220 per night",
-        "image": ""
+        "image": "Cocoa"
     }
 ],
 
@@ -298,7 +298,7 @@
             "description": "Pantai Tropika is a hidden gem in Penang, known for its pristine sands and serene atmosphere. This tranquil beach is perfect for those seeking relaxation away from the crowds. Its picturesque surroundings make it a great spot for photography and peaceful strolls.",
             "address": "Pantai Tropika, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "PantaiTropika"
         },
         {
             "id": 2,
@@ -306,7 +306,7 @@
             "description": "Tanjung Bungah is a popular beach destination, offering calm waters and stunning views. It is ideal for swimming, picnics, and family outings. Visitors can also enjoy nearby resorts and local seafood restaurants for a complete beach experience.",
             "address": "Tanjung Bungah, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "TanjungBungah"
         },
         {
             "id": 3,
@@ -314,7 +314,7 @@
             "description": "Teluk Bahang Beach is located near the Penang National Park, offering a peaceful retreat surrounded by nature. Its clear waters and lush greenery attract both locals and tourists. The beach is also a starting point for boat trips to other scenic spots in the area.",
             "address": "Teluk Bahang, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "TelukBahangBeach"
         },
         {
             "id": 4,
@@ -322,7 +322,7 @@
             "description": "Kerachut Beach is a secluded paradise within Penang National Park, famous for its Turtle Sanctuary. Accessible via hiking trails or boat rides, it is perfect for nature lovers. Its pristine beauty and serene environment make it a must-visit beach in Penang.",
             "address": "Teluk Bahang, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "KerachutBeach"
         },
         {
             "id": 5,
@@ -330,7 +330,7 @@
             "description": "Batu Ferringhi is one of Penang’s most famous beaches, known for its vibrant nightlife and water sports activities. Visitors can enjoy jet skiing, parasailing, or simply relax by the shore. The nearby night market and dining options add to its appeal, making it a lively destination.",
             "address": "Batu Ferringhi, Penang",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "BatuFerringhi"
         }
 
     ],
@@ -343,7 +343,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Teluk Bahang, Penang",
         "price": "RM 50 - RM 70 (depending on age and package)",
-        "image": ""
+        "image": "Entopia"
     },
     {
         "id": "2",
@@ -352,7 +352,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 30 - RM 60 (depending on package)",
-        "image": ""
+        "image": "TropicalFruitFarm"
     },
     {
         "id": "3",
@@ -361,7 +361,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 40 - RM 80 (for durian tasting and tour)",
-        "image": ""
+        "image": "BaoShengDurainFarm"
     },
     {
         "id": "4",
@@ -370,7 +370,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 10 - RM 20 (for entry and activities)",
-        "image": ""
+        "image": "SaanenDairyGoatFarm"
     },
     {
         "id": "5",
@@ -379,7 +379,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Balik Pulau, Penang",
         "price": "RM 10 - RM 20 (for entry and activities)",
-        "image": ""
+        "image": "AudiDreamFarm"
     }
 ],
 
@@ -391,7 +391,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Teluk Bahang, Penang",
         "price": "RM 70 - RM 140 (depending on package)",
-        "image": ""
+        "image": "EscapeThemePark"
     },
     {
         "id": "2",
@@ -400,7 +400,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "Komtar, George Town, Penang",
         "price": "RM 40 - RM 60 (depending on attractions)",
-        "image": ""
+        "image": "TheTopPenang"
     },
     {
         "id": "3",
@@ -409,7 +409,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 30 - RM 50 (per child)",
-        "image": ""
+        "image": "Kidland"
     },
     {
         "id": "4",
@@ -418,7 +418,7 @@
         "rating": "⭐⭐⭐⭐⭐",
         "address": "George Town, Penang",
         "price": "RM 10 - RM 25 (for play area, food and drinks extra)",
-        "image": ""
+        "image": "DipPlayCafe"
     }
 ],
 
@@ -429,7 +429,7 @@
         "description": "Rapid Penang is the island's primary public bus service, offering affordable and reliable transportation. The buses connect major attractions, residential areas, and towns across Penang, including George Town and Balik Pulau. With air-conditioned comfort and frequent schedules, it's a popular choice for locals and tourists alike.",
         "rating": "⭐⭐⭐⭐",
         "price": "RM 1 - RM 5",
-        "image": ""
+        "image": "RapidPenangBus"
     },
     {
         "id": "2",
@@ -437,7 +437,7 @@
         "description": "The Penang Ferry is an iconic mode of transportation connecting Butterworth on the mainland to George Town on the island. It offers scenic views of the coastline and a unique way to experience Penang’s maritime heritage. The ferry accommodates both passengers and vehicles, making it a convenient option.",
         "rating": "⭐⭐⭐⭐⭐",
         "price": "RM 1.20 - RM 7.00 (varies by vehicle)",
-        "image": ""
+        "image": "PenangFerry"
     },
     {
         "id": "3",
@@ -445,7 +445,7 @@
         "description": "Trishaws, or becas, are a nostalgic and eco-friendly way to explore the streets of George Town. Operated by local riders, they provide a slow-paced and scenic tour of the city’s heritage sites. It’s a charming option for tourists seeking an authentic Penang experience.",
         "rating": "⭐⭐⭐⭐",
         "price": "RM 40 - RM 60 (per hour)",
-        "image": ""
+        "image": "Trishaw"
     },
     {
         "id": "4",
@@ -453,24 +453,9 @@
         "description": "Penang International Airport serves as the main gateway to the island, connecting it to both domestic and international destinations. Located in Bayan Lepas, it offers a range of facilities, including restaurants, shops, and transportation services. The airport is a hub for travelers exploring Penang and beyond.",
         "rating": "⭐⭐⭐⭐⭐",
         "price": "Varies by flight",
-        "image": ""
-    },
-    {
-        "id": "5",
-        "title": "Motorcycle Rentals",
-        "description": "Motorcycle rentals are a popular choice for exploring Penang, offering flexibility and ease of navigation. Affordable and efficient, they allow travelers to reach hidden gems and scenic spots at their own pace. Riding through the island’s roads is a thrilling way to experience its culture and nature.",
-        "rating": "⭐⭐⭐⭐",
-        "price": "RM 30 - RM 60 (per day)",
-        "image": ""
-    },
-    {
-        "id": "6",
-        "title": "Grab (E-Hailing)",
-        "description": "Grab is Penang’s most widely used e-hailing service, offering convenient and efficient transportation. With competitive pricing and availability across the island, it’s ideal for short trips or getting to remote locations. The app-based service provides a hassle-free travel option for both locals and tourists.",
-        "rating": "⭐⭐⭐⭐⭐",
-        "price": "RM 6 - RM 40 (depending on distance)",
-        "image": ""
+        "image": "PenangInternationalAirport"
     }
+
 ]
 
 }

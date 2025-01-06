@@ -96,11 +96,13 @@ export const footerLinks = [
 export const navButtons = [
     {
         imgURL: beaches,
-        label: "Beaches"
+        label: "Beaches",
+        route: "/beaches"
     },
     {
         imgURL: hotel,
-        label: "Hotel"
+        label: "Hotel",
+        route: "/accommodations"
     },
     {
         imgURL: fnb,
@@ -119,15 +121,18 @@ export const navButtons = [
     },
     {
         imgURL: themepark,
-        label: "Themeparks"
+        label: "Themeparks",
+        route: "/themeparks"
     },
     {
         imgURL: vehicle,
-        label: "Transportation"
+        label: "Transportation",
+        route: "/transportations"
     },
     {
         imgURL: farm,
-        label: "Farm & Animals"
+        label: "Farm & Animals",
+        route: "/farmandanimals"
     },
 ]
 

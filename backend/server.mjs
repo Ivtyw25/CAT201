@@ -56,7 +56,7 @@ app.get('/getNatureAndWildlife', async (req, res) => {
 app.get('/getAccommodations', async (req, res) => {
   try {
     const data = await readJSON();
-    res.json(data["Accomodations"] || []); // Send accommodations data or empty array if not found
+    res.json(data["Accommodations"] || []); // Send accommodations data or empty array if not found
   } catch (error) {
     res.status(500).json({ error: 'Failed to read accommodations data' });
   }

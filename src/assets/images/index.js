@@ -34,6 +34,34 @@ import KhooKongsi from './khoo_kongsi.jpg'
 import PenangHillMosque from './penang_hill_mosque.jpg'
 import PenangStreetWallMurals from './penang_street_wall_murals.jpg'
 import QueenVictoriaMemorialClockTower from './queen_victoria_memorial_clock_tower.jpg'
+import AayuMelayu from './aayu_melayu.jpg'
+import BayviewHotel from './bayview_hotel.jpg'
+import CititelExpressHotel from './cititel_express_hotel.jpg'
+import CitivillaHotel from './citivilla_hotel.jpg'
+import Cocoa from './cocoa.jpg'
+import GrandSwissHotel from './grand_swiss_hotel.jpg'
+import JomstayAtGeorgetown from './jomstay_at_georgetown.jpg'
+import KimberleyHotel from './kimberley_hotel.jpg'
+import TidoPenangHostel from './tido_penang_hostel.jpg'
+import TuneHotel from './tune_hotel.jpg'
+import BatuFerringhi from './batu_ferringhi.jpg'
+import KerachutBeach from './kerachut_beach.jpg'
+import PantaiTropika from './pantai_tropika.jpg'
+import TanjungBungah from './tanjung_bungah.jpg'
+import TelukBahangBeach from './teluk_bahang_beach.jpg'
+import AudiDreamFarm from './audi_dream_farm.jpg'
+import BaoShengDurain from './bao_sheng_durian_farm.jpg'
+import SaanenDairyGoatFarm from './saanen_dairy_goat_farm.jpg'
+import TropicalFruitFarm from './tropical_fruit_farm.jpg'
+import Entopia from './entopia.jpg'
+import DipPlayCafe from './dip_play_cafe.jpg'
+import EscapeThemePark from './escape_theme_park.jpg'
+import Kidland from './kidland.jpg'
+import TheTopPenang from './the_top_penang.jpg'
+import RapidPenangBus from './rapid_penang_bus.jpg'
+import PenangFerry from './penang_ferry.jpg'
+import PenangInternationalAirport from './penang_international_airport.jpg'
+import Trishaw from './trishaw.jpg'
 
 export {
     Armenian,
@@ -72,4 +100,32 @@ export {
     PenangHillMosque,
     PenangStreetWallMurals,
     QueenVictoriaMemorialClockTower,
+    AayuMelayu,
+    BayviewHotel,
+    CititelExpressHotel,
+    CitivillaHotel,
+    Cocoa,
+    GrandSwissHotel,
+    JomstayAtGeorgetown,
+    KimberleyHotel,
+    TidoPenangHostel,
+    TuneHotel,
+    BatuFerringhi,
+    KerachutBeach,
+    PantaiTropika,
+    TanjungBungah,
+    TelukBahangBeach,
+    AudiDreamFarm,
+    BaoShengDurain,
+    SaanenDairyGoatFarm,
+    TropicalFruitFarm,
+    Entopia,
+    DipPlayCafe,
+    EscapeThemePark,
+    Kidland,
+    TheTopPenang,
+    RapidPenangBus,
+    PenangFerry,
+    PenangInternationalAirport,
+    Trishaw
 }
