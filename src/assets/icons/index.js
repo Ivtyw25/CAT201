@@ -13,7 +13,12 @@ import copyright from "./copyright.svg"
 import hotel from "./hotel.png"
 import beaches from "./vacations.png"
 import fnb from "./fast-food.png"
- 
+import culture from "./culture.png"
+import nature from "./nature.png"
+import farm from "./farm.png"
+import themepark from "./themepark.png"
+import vehicle from "./car.png"
+
 export {
     hamburger,
     homeLogo,
@@ -29,4 +34,9 @@ export {
     hotel,
     beaches,
     fnb,
+    culture,
+    farm,
+    nature,
+    themepark,
+    vehicle
 }
