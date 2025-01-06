@@ -140,70 +140,70 @@
             "title": "Penang National Park",
             "description": "Penang National Park is a pristine natural reserve located on the northwest corner of Penang Island. It is home to diverse ecosystems, including mangroves, rainforests, and coastal beaches. The park features popular trails leading to iconic sites like the Lighthouse and Turtle Beach. Visitors can enjoy hiking, birdwatching, and boat rides while immersing themselves in nature. This park offers an unparalleled experience for nature lovers and adventure enthusiasts.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "PenangNationalPark"
         },
         {
             "id": 2,
             "title": "Monkey Beach",
             "description": "Monkey Beach is a secluded and scenic beach within Penang National Park. Known for its clear waters and lush surroundings, the beach is accessible via hiking trails or boat rides. True to its name, visitors often spot playful monkeys in the area, adding to the charm of the beach. It is a perfect spot for relaxation, picnics, and water activities such as swimming and kayaking. The tranquil atmosphere and natural beauty make Monkey Beach a hidden gem in Penang.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "MonkeyBeach"
         },
         {
             "id": 3,
             "title": "Penang Bird Park",
             "description": "Penang Bird Park is Malaysia's first and largest bird park, housing over 300 species of birds from around the world. Spanning five acres, the park features beautifully landscaped gardens, ponds, and aviaries. Visitors can enjoy close encounters with exotic birds such as flamingos, hornbills, and parrots. Educational exhibits and feeding sessions make it a family-friendly destination. The park is a haven for bird enthusiasts and a must-visit for those interested in wildlife.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "PenangBirdPark"
         },
         {
             "id": 4,
             "title": "The Habitat Penang Hill",
             "description": "The Habitat Penang Hill offers a unique rainforest experience, featuring a canopy walk, tree-top views, and diverse flora and fauna. Located on Penang Hill, it is an eco-tourism attraction that promotes environmental conservation. Visitors can explore guided nature trails, a giant swing, and observation decks with panoramic views. The Habitat provides an educational experience, showcasing the importance of preserving biodiversity. It is a serene escape into the heart of nature, ideal for families and eco-enthusiasts.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "TheHabitatPenangHill"
         },
         {
             "id": 5,
             "title": "Monitor Lizard",
             "description": "Monitor lizards are commonly spotted in the natural habitats of Penang, including the forests and mangroves. These large reptiles are harmless to humans and play an essential role in the ecosystem. Known for their agility and swimming skills, they are often seen basking in the sun or foraging for food. Visitors may encounter them at Penang National Park or near water bodies. Monitor lizards are a fascinating species that highlight Penang's rich biodiversity.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "MonitorLizard"
         },
         {
             "id": 6,
             "title": "Otter",
             "description": "Otters are playful and social creatures found in the waterways and mangroves of Penang. These semi-aquatic mammals are known for their sleek bodies and excellent swimming abilities. Visitors can occasionally spot otters near Penang National Park or coastal areas, often in small family groups. They are an important part of the local ecosystem, contributing to the health of aquatic environments. Observing these charming animals in their natural habitat is a delightful experience.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "Otter"
         },
         {
             "id": 7,
             "title": "Sunda Colugo",
             "description": "The Sunda Colugo, also known as the Malayan flying lemur, is a unique nocturnal mammal found in Penang’s rainforests. Known for its ability to glide between trees, it has a distinctive membrane connecting its limbs. These shy creatures are rarely seen during the day but can be spotted in the trees at night. They primarily feed on leaves, flowers, and fruits, playing a role in the forest's ecosystem. The Sunda Colugo is a fascinating species that highlights Penang's rich wildlife diversity.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "SundaColugo"
         },
         {
             "id": 8,
             "title": "Sunda Slow Loris",
             "description": "The Sunda Slow Loris is a small, nocturnal primate native to Penang’s forests. Recognized by its big round eyes and slow movements, it is a tree-dwelling species that feeds on fruits, insects, and tree sap. Despite its cute appearance, it has a venomous bite used for self-defense. The Sunda Slow Loris is a protected species due to habitat loss and illegal pet trade. Spotting one in the wild is a rare and enchanting experience for wildlife enthusiasts.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "SundaSlowLoris"
         },
         {
             "id": 9,
             "title": "Wild Boar",
             "description": "Wild boars are commonly found in the forests and rural areas of Penang. These robust animals are known for their keen sense of smell and foraging habits. They play an important role in the ecosystem by helping with seed dispersal and soil turnover. While generally shy, wild boars may occasionally be spotted by hikers in Penang National Park or other forested areas. Observing them from a safe distance offers an insight into the island's native wildlife.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "WildBoar"
         },
         {
             "id": 10,
             "title": "Dolphin",
             "description": "Dolphins are a delightful sight in the coastal waters surrounding Penang. These intelligent marine mammals are occasionally seen swimming and leaping in pods near the Straits of Malacca. Dolphin-watching tours provide opportunities for visitors to experience their playful behavior up close. They symbolize the rich marine biodiversity of Penang and the need for its conservation. Encountering dolphins in the wild is a magical experience for nature lovers and adventurers.",
             "rating": "⭐⭐⭐⭐⭐",
-            "image": ""
+            "image": "Dolphin"
         }
 
         ],

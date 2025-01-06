@@ -16,6 +16,16 @@ import HokkienMee from './hokkien_mee.jpg'
 import IceCendol from './ice_cendol.jpg'
 import IceKacang from './ice_kacang.jpg'
 import Rojak from './rojak.jpg'
+import Dolphin from './dolphin.jpg'
+import MonitorLizard from './monitor_lizard.jpg'
+import MonkeyBeach from './monkey_beach.jpg'
+import Otter from './otter.jpg'
+import PenangBirdPark from './penang_bird_park.jpg'
+import PenangNationalPark from './penang_national_park.jpg'
+import SundaColugo from './sunda_colugo.jpg'
+import SundaSlowLoris from './sunda_slow_loris.jpg'
+import TheHabitatPenangHill from './the_habitat_penang_hill.jpg'
+import WildBoar from './wild_boar.jpg'
 
 export {
     Armenian,
@@ -36,4 +46,14 @@ export {
     IceCendol,
     IceKacang,
     Rojak,
+    Dolphin,
+    MonitorLizard,
+    MonkeyBeach,
+    Otter,
+    PenangBirdPark,
+    PenangNationalPark,
+    SundaColugo,
+    SundaSlowLoris,
+    TheHabitatPenangHill,
+    WildBoar,
 }

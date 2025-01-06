@@ -113,7 +113,8 @@ export const navButtons = [
     },
     {
         imgURL: nature,
-        label: "Nature & Wildlife"
+        label: "Nature & Wildlife",
+        route: "/natureandwildlife"
     },
     {
         imgURL: themepark,
