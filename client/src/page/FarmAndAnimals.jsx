@@ -1,11 +1,4 @@
-import { useEffect, useState } from 'react'
-import {
-        AudiDreamFarm,
-        BaoShengDurian,
-        SaanenDairyGoatFarm,
-        TropicalFruitFarm,
-        Entopia
-    } from '../assets/images'
+import { FarmandAnimals } from '.';
 import ItemCard from '../components/ItemCard';
 import Nav from '../components/Nav';
 import SideNav from '../components/SideNav';
@@ -14,47 +7,6 @@ import Footer from '../sections/Footer';
 
 
 const FarmAndAnimals = () => {
-    const [data, setData] = useState([]);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState(null);
-
-    useEffect(() => {
-        const fetchData = async () => {
-            try {
-                const response = await fetch('http://localhost:5000/getFarmAndAnimals');
-                if (!response.ok) {
-                    throw new Error('Network response was not ok');
-                }
-                const result = await response.json();
-                setData(result);
-            } catch (error) {
-                setError(error.message);
-            } finally {
-                setLoading(false);
-            }
-        };
-
-        fetchData();
-    }, []);
-
-    if (loading) {
-        return <div>Loading...</div>;
-    }
-
-    if (error) {
-        return <div>Error: {error}</div>;
-    }
-
-    // Create a mapping of image names to their respective imports
-
-    const imageMap = {
-        AudiDreamFarm,
-        BaoShengDurian,
-        SaanenDairyGoatFarm,
-        TropicalFruitFarm,
-        Entopia
-    };
-
     return (
         <main className='relative'>
         <Nav/>
@@ -63,7 +15,7 @@ const FarmAndAnimals = () => {
                 <div className='flex flex-row max-lg:flex-col gap-10'>
                     <SideNav/>
                     <div className='grid grid-cols-1 gap-10'>
-                        {data.map((data,index) => (
+                        {FarmandAnimals.map((data,index) => (
                             <ItemCard 
                                 index={index}
                                 key={index}
@@ -72,7 +24,7 @@ const FarmAndAnimals = () => {
                                 description={data.description}
                                 price={data.price}
                                 address={data.address}
-                                image={imageMap[data.image]}/>
+                                image={data.image}/>
                         ))}
                     </div>
                 </div>
