@@ -4,21 +4,11 @@ import { useEffect } from 'react';
 import { gsap } from 'gsap';
 import Button from "../components/Button";
 import { rightArrow } from "../assets/icons";
+import { LandingVideo } from "../assets/videos";
 
 const Hero = () => {
 
-  const src = "https://www.youtube.com/embed/gQ7bxektkU8?si=6Dq4AeRmxjNMtoBJ";
 
-  const Video = () => {
-    return (
-      <iframe 
-        className="xl:w-[460px] xl:h-[45%] max-xl:w-full xl:pb-28 pb-20"
-        src={src} title="YouTube video player" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-        referrerPolicy="strict-origin-when-cross-origin" 
-        allowfullscreen/>
-    );
-  };
 
   useEffect(() => {
     gsap.fromTo(
@@ -77,7 +67,7 @@ const Hero = () => {
         </div>
         <div className="video relative xl:mt-24 padding-x 
               justify-center xl:flex-col xl:justify-start xl:min-h-screen max-xl:py-8 bg-primary">
-          <Video/>
+          <video src={LandingVideo} controls preload="auto" className="xl:w-[460px] xl:h-[45%] max-xl:w-full max-xl:max-h-96 xl:pb-28 pb-20" />
           <Button label="Explore more" iconURL={rightArrow}/>
         </div>
     </section>
