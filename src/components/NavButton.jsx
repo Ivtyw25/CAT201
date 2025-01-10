@@ -10,8 +10,8 @@ const NavButton = ({ imgURL, label, route }) => {
 
   return (
     <button 
-      className="flex justify-start items-center gap-2 px-3 py-3 border border-slate-800
-                  font-montserrat text-lg max-sm:text-sm max-md:text-base text-nowrap leading-none rounded-xl hover-2"
+      className="flex justify-start items-center gap-2 p-3 max-sm:p-1 max-md:p-2 border border-slate-800
+                  font-montserrat text-lg max-sm:text-xs max-md:text-sm text-nowrap leading-none rounded-xl max-sm:rounded-lg hover-2"
       onClick={handleClick}
     >
       {label}

@@ -40,7 +40,7 @@ const NavigationButtons= () => {
                     <NavButton label="See all"/>
                 </div>
             </div>
-            <div className="mt-10 flex gap-10 max-w-screen-lg flex-wrap">
+            <div className="mt-10 gap-10 max-w-screen-lg flex-wrap flex">
                 {navButtons.map((item,index) => (
                     <NavButton key={index} route={item.route} label={item.label} imgURL={item.imgURL}/>
                 ))}

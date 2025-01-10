@@ -7,7 +7,7 @@ import { beaches } from ".";
 const Beaches = () => {
     return (
     <main className='relative'>
-        <Nav/>
+        <Nav noLinks={true}/>
         <section className='padding-x padding-t'>
             <section className='max-container'>
                 <div className='flex flex-row max-lg:flex-col gap-10'>

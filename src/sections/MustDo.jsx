@@ -33,14 +33,14 @@ const MustDo = () => {
     <section ref={sectionRef} className="max-container relative w-full flex flex-col">
         <div className="flex flex-col">
             <h1 className="text-3xl font-bold font-palanquin">
-                Top-15 <span className="text-pale-purple"> Must Do </span> Experience in Penang
+                <span className="text-pale-purple"> Must Do </span> Experience in Penang
            </h1>
             <div className="justify-between items-center gap-5 flex flex-row">
                 <p className="max-md:text-sm flex-1 mt-2 info-text"> Let's create alot of unforgettable memories.</p>
                 <NavButton label="See more"/>
             </div>
         </div>
-        <div className="grid lg:grid-cols-4 md:grid-cols-3 max-md:grid-cols-2 sm:gap-6 gap-14 mt-8">
+        <div className="grid lg:grid-cols-4 max-lg:grid-cols-2 max-sm:grid-cols-1 sm:gap-6 gap-14 mt-8">
             {mustDo.map((item, index) => (
                 <ActivityCard 
                     key={index}

@@ -67,7 +67,7 @@ const Hero = () => {
         </div>
         <div className="video relative xl:mt-24 padding-x 
               justify-center xl:flex-col xl:justify-start xl:min-h-screen max-xl:py-8 bg-primary">
-          <video src={LandingVideo} controls preload="auto" className="xl:w-[460px] xl:h-[45%] max-xl:w-full max-xl:max-h-96 xl:pb-28 pb-20" />
+          <video src={LandingVideo} controls preload="auto" className="xl:w-[460px] xl:h-[45%] max-xl:w-full max-xl:max-h-72 xl:pb-28 pb-20" />
           <Button label="Explore more" iconURL={rightArrow}/>
         </div>
     </section>
