@@ -460,8 +460,7 @@ export const NatureandWildlife = [
     {
         id: 6,
         title: "Teruna Dara Waterfall",
-        description: "Monkeycup @ Penang Hill is a unique garden dedicated to showcasing carnivorous plants, particularly the fascinating Nepenthes species, also known as monkey cups. Visitors can explore an educational journey through the world of these intriguing plants while enjoying the cool climate and scenic views of Penang Hill.",
-        rating: "4.9",
+        description: "Teruna Dara Waterfall, located in Penang, Malaysia, is a beautiful and serene natural attraction nestled in the lush forests of the island. The waterfall is known for its clear, cool waters and scenic surroundings, making it a popular spot for nature lovers and hikers. It is a perfect place to enjoy a peaceful retreat, surrounded by tropical greenery and the soothing sound of flowing water. The waterfall is accessible through a moderate hiking trail, offering visitors a rewarding experience in Penang's natural beauty.",
         address: "Balik Pulau, Penang",
         image: TerunaDara
     } 

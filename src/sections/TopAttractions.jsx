@@ -37,7 +37,7 @@ const TopAttractions = () => {
            </h1>
             <div className="justify-between items-center gap-5 flex flex-row">
                 <p className="max-md:text-sm flex-1 mt-2 info-text"> You never been to Penang if you don't visit here.</p>
-                <NavButton label="See more"/>
+                <NavButton label="See more" route="/cultureandheritage"/>
             </div>
         </div>
         <div className="grid lg:grid-cols-4 max-lg:grid-cols-2 max-sm:grid-cols-1 sm:gap-6 gap-14 mt-8">
