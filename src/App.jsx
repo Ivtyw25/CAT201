@@ -7,6 +7,7 @@ import Footer from './sections/Footer'
 import NavigationButtons from './sections/NavigationButton'
 import MustDo from './sections/MustDo'
 import { navLinks } from './constants'
+import TopAttractions from './sections/TopAttractions'
 
 const App = () => {
   return (
@@ -23,6 +24,9 @@ const App = () => {
       </section>
       <section className='padding-x padding-t'>
         <MustDo/>
+      </section>
+      <section className='padding-x padding-t'>
+        <TopAttractions/>
       </section>
       <section className='padding'>
         <WhyPenang/>

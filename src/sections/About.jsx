@@ -33,9 +33,7 @@ const About = () => {
                     About <span className='text-pale-purple'> Penang </span>
                 </h1>
                 <p className='md:w-2/3 mt-2 text-base font-montserrat leading-8 text-slate-gray'>
-                    Discover Penang, the "Pearl of the Orient," where rich history, diverse cultures, and breathtaking landscapes come together 
-                    to offer a unique experience. Located on Malaysia's 
-                    northwest coast, Penang is renowned for its vibrant city life, stunning beaches, lush hills, and mouthwatering food.
+                    Penang, often called the "Pearl of the Orient," has a rich history as a key trading hub in Southeast Asia. Established as a British settlement in 1786 by Captain Francis Light, it became a melting pot of cultures, drawing immigrants from China, India, and beyond. Under British colonial rule, Penang thrived as part of the Straits Settlements, playing a vital role in regional commerce. During World War II, it endured Japanese occupation before becoming part of independent Malaysia in 1957. Today, Penang is celebrated for its multicultural heritage, historic architecture, and status as a UNESCO World Heritage Site.
                 </p>
             </div>
             <Carousel/>

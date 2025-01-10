@@ -37,7 +37,7 @@ const NavigationButtons= () => {
                 </h1>
                 <div className="justify-between items-center gap-5 flex flex-row">
                     <p className="max-md:text-sm flex-1 mt-2 info-text">See what other travelers enjoy the most in Penang</p>
-                    <NavButton label="See all"/>
+                    <NavButton route={"/FoodandBeverage"} label="See all"/>
                 </div>
             </div>
             <div className="mt-10 gap-10 max-w-screen-lg flex-wrap flex">

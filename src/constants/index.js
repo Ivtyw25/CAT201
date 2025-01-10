@@ -1,8 +1,8 @@
 import { food, sunset, globe } from "../assets/icons";
-import { Customer1, Customer2, Customer3 } from "../assets/images";
+import { Armenian2, Customer1, Customer2, Customer3 } from "../assets/images";
 import { whatsapp, facebook, insta } from "../assets/icons";
 import { beaches, hotel, fnb, culture, nature, vehicle, themepark, farm} from "../assets/icons";
-import { BalikPulauCycling } from "../assets/images";
+import { BalikPulauCycling, CharKueyTeow, PenangHill, KekLokSi, TheHabitatPenangHill, BatuFerringhi, FloatingMosque } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -100,9 +100,9 @@ export const navButtons = [
         route: "/beaches"
     },
     {
-        imgURL: hotel,
-        label: "Hotel",
-        route: "/accommodations"
+        imgURL: themepark,
+        label: "Themeparks",
+        route: "/themeparks"
     },
     {
         imgURL: fnb,
@@ -120,9 +120,9 @@ export const navButtons = [
         route: "/natureandwildlife"
     },
     {
-        imgURL: themepark,
-        label: "Themeparks",
-        route: "/themeparks"
+        imgURL: hotel,
+        label: "Accomodations",
+        route: "/accommodations"
     },
     {
         imgURL: vehicle,
@@ -146,27 +146,58 @@ export const mustDo = [
         imgURL: BalikPulauCycling
     },
     {
-        title: "Cycling at Balik Pulau",
-        rating: "4.9",
-        category: "outdoor",
-        location: "Balik Pulau @ Balik Kampung",
-        price: 10,
-        imgURL: BalikPulauCycling
+        title: "Eat Penang Char Kuey Teow",
+        rating: "5.0",
+        category: "local cuisine",
+        location: "Georgetown",
+        price: "7 - RM 11",
+        imgURL: CharKueyTeow
     },
     {
-        title: "Cycling at Balik Pulau",
-        rating: "4.9",
-        category: "outdoor",
-        location: "Balik Pulau @ Balik Kampung",
-        price: 10,
-        imgURL: BalikPulauCycling
+        title: "Hike Penang Hill",
+        rating: "4.7",
+        category: "outdoor, nature",
+        location: "Ayer Itam",
+        price: "8 per ride",
+        imgURL: PenangHill
     },
     {
-        title: "Cycling at Balik Pulau",
+        title: "Visit Kek Lok Si Temple",
         rating: "4.9",
-        category: "outdoor",
-        location: "Balik Pulau @ Balik Kampung",
-        price: 10,
-        imgURL: BalikPulauCycling
+        category: "culture",
+        location: "Ayer Itam",
+        imgURL: KekLokSi
     }
+]
+
+export const topAttractions = [
+    {
+        title: "The Habitat, Penang Hill",
+        rating: "4.9",
+        category: "outdoor, nature",
+        location: "Bukit Bendera",
+        price: "40 - RM 60",
+        imgURL: TheHabitatPenangHill
+    },
+    {
+        title: "Batu Ferringhi Beach",
+        rating: "4.8",
+        category: "beach",
+        location: "Batu Ferringhi",
+        imgURL: BatuFerringhi
+    },
+    {
+        title: "Floating Mosque",
+        rating: "4.8",
+        category: "culture",
+        location: "Tanjung Bungah",
+        imgURL: FloatingMosque
+    },
+    {
+        title: "Armenian Street",
+        rating: "4.7",
+        category: "culture, outdoor, citywalk",
+        location: "Georgetown",
+        imgURL: Armenian2
+    },
 ]

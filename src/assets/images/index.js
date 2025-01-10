@@ -62,8 +62,16 @@ import RapidPenangBus from './rapid_penang_bus.jpg'
 import PenangFerry from './penang_ferry.jpg'
 import PenangInternationalAirport from './penang_international_airport.jpg'
 import Trishaw from './trishaw.jpg'
+import OrchidHibiscus from './bukit-jambul-orchid-hibiscus.jpg'
+import Monkeycup from "./monkeycup-penanghill.jpg"
+import FloatingMosque from "./floating-mosque.jpg"
+import Armenian2 from "./armenian-street2.jpg"
+import PantaiMalindo from "./PantaiMalindo.jpg"
+import TerunaDara from "./waterfall.jpg"
 
 export {
+    TerunaDara,
+    FloatingMosque,
     Armenian,
     ChewJetty,
     KekLokSi,
@@ -127,5 +135,9 @@ export {
     RapidPenangBus,
     PenangFerry,
     PenangInternationalAirport,
-    Trishaw
+    Trishaw,
+    Monkeycup,
+    OrchidHibiscus,
+    Armenian2,
+    PantaiMalindo
 }
