@@ -62,7 +62,7 @@ export const FandB = [
         title: "Aiyu Jelly",
         description: "Aiyu Jelly is a refreshing Taiwanese dessert made from the gel of a unique fig seed. It is known for its smooth and silky texture that pairs perfectly with citrus-based syrups. Often served chilled, it is a popular choice during hot weather. The jelly has a delicate flavor, making it a light and guilt-free dessert option. Aiyu Jelly is not only delicious but also a treat for anyone seeking something healthy and hydrating.",
         price: "RM 5.00",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.5",
         image: AiyuJelly
     },
     {
@@ -70,7 +70,7 @@ export const FandB = [
         title: "Bubur Cha Cha",
         description: "Bubur Cha Cha is a sweet and creamy Malaysian dessert made with yam, sweet potato, and tapioca pearls. The dish is cooked in a rich coconut milk base that enhances its sweetness. It has a delightful mix of textures, from the softness of yam to the chewiness of tapioca pearls. Served either hot or chilled, it caters to all preferences. This vibrant dessert is a must-try for anyone who enjoys comforting and colorful treats.",
         price: "RM 6.50",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.6",
         image: BuburChaCha
     },
     {
@@ -78,7 +78,7 @@ export const FandB = [
         title: "Rojak",
         description: "Rojak is a famous Southeast Asian salad featuring a mix of fruits, vegetables, and fritters. These ingredients are tossed in a tangy and spicy dressing made from shrimp paste and tamarind. The combination of sweet, sour, and spicy flavors is truly unique. Each bite offers a satisfying crunch from the fritters and fresh produce. Rojak is a vibrant and flavorful snack loved by locals and tourists alike.",
         price: "RM 8.00",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.3",
         image: Rojak
     },
     {
@@ -86,7 +86,7 @@ export const FandB = [
         title: "Char Kuey Teow",
         description: "Char Kuey Teow is a popular Malaysian stir-fried noodle dish with a smoky aroma. It features flat rice noodles stir-fried with prawns, egg, and bean sprouts. The dish is cooked over high heat to achieve the signature 'wok hei' flavor. Its bold and savory taste is enhanced by soy sauce and chili paste. Char Kuey Teow is a hearty and satisfying meal for noodle lovers.",
         price: "RM 10.00",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.9",
         image: CharKueyTeow
     },
     {
@@ -94,7 +94,7 @@ export const FandB = [
         title: "Chee Cheong Fun",
         description: "Chee Cheong Fun is a soft and silky rice noodle roll commonly found in Malaysia. These rolls are served with a sweet and savory sauce that enhances their flavor. The dish is often garnished with sesame seeds and fried shallots for added texture. It is a versatile meal that can be enjoyed as breakfast or a light snack. Chee Cheong Fun is a comforting and flavorful dish for all ages.",
         price: "RM 4.50",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.8",
         image: CheeCheongFun
     },
     {
@@ -102,7 +102,7 @@ export const FandB = [
         title: "Hokkien Mee",
         description: "Hokkien Mee is a beloved noodle dish packed with rich and savory flavors. It combines thick yellow noodles with prawns, pork slices, and a flavorful broth. The dish is often served with sambal chili and lime on the side for an added kick. Its complex flavors come from the caramelized dark soy sauce used in cooking. Hokkien Mee is a filling and satisfying meal perfect for any occasion.",
         price: "RM 12.00",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.7",
         image: HokkienMee
     },
     {
@@ -110,7 +110,7 @@ export const FandB = [
         title: "Ice Cendol",
         description: "Ice Cendol is a traditional Malaysian dessert that is both refreshing and indulgent. It features shaved ice topped with coconut milk, palm sugar syrup, and green pandan jelly. The dish is perfect for cooling down on a hot day while enjoying its rich flavors. The creamy coconut milk pairs beautifully with the caramel-like sweetness of palm sugar. Ice Cendol is a must-try dessert for those who love tropical flavors.",
         price: "RM 5.50",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.6",
         image: IceCendol
     },
     {
@@ -118,7 +118,7 @@ export const FandB = [
         title: "Ice Kacang",
         description: "Ice Kacang is a colorful and delightful shaved ice dessert from Malaysia. It is topped with a variety of ingredients, including syrups, sweet corn, red beans, and jelly. The combination of textures and flavors makes it an exciting treat. Often served with a scoop of ice cream, it is a favorite among both kids and adults. Ice Kacang is a perfect choice for anyone looking for a sweet and refreshing dessert.",
         price: "RM 6.00",
-        rating: "⭐⭐⭐⭐⭐",
+        rating: "4.9",
         image: IceKacang
     }
 ]
@@ -279,7 +279,7 @@ export const beaches = [
             title: "Pantai Tropika",
             description: "Pantai Tropika is a hidden gem in Penang, known for its pristine sands and serene atmosphere. This tranquil beach is perfect for those seeking relaxation away from the crowds. Its picturesque surroundings make it a great spot for photography and peaceful strolls.",
             address: "Pantai Tropika, Penang",
-            rating: "⭐⭐⭐⭐⭐",
+            rating: "4.9",
             image: PantaiTropika
         },
         {
@@ -287,7 +287,7 @@ export const beaches = [
             title: "Tanjung Bungah",
             description: "Tanjung Bungah is a popular beach destination, offering calm waters and stunning views. It is ideal for swimming, picnics, and family outings. Visitors can also enjoy nearby resorts and local seafood restaurants for a complete beach experience.",
             address: "Tanjung Bungah, Penang",
-            rating: "⭐⭐⭐⭐⭐",
+            rating: "4.8",
             image: TanjungBungah
         },
         {
@@ -295,7 +295,7 @@ export const beaches = [
             title: "Teluk Bahang Beach",
             description: "Teluk Bahang Beach is located near the Penang National Park, offering a peaceful retreat surrounded by nature. Its clear waters and lush greenery attract both locals and tourists. The beach is also a starting point for boat trips to other scenic spots in the area.",
             address: "Teluk Bahang, Penang",
-            rating: "⭐⭐⭐⭐⭐",
+            rating: "4.5",
             image: TelukBahangBeach
         },
         {
@@ -303,7 +303,7 @@ export const beaches = [
             title: "Kerachut Beach",
             description: "Kerachut Beach is a secluded paradise within Penang National Park, famous for its Turtle Sanctuary. Accessible via hiking trails or boat rides, it is perfect for nature lovers. Its pristine beauty and serene environment make it a must-visit beach in Penang.",
             address: "Teluk Bahang, Penang",
-            rating: "⭐⭐⭐⭐⭐",
+            rating: "4.9",
             image: KerachutBeach
         },
         {
@@ -311,7 +311,7 @@ export const beaches = [
             title: "Batu Ferringhi",
             description: "Batu Ferringhi is one of Penang’s most famous beaches, known for its vibrant nightlife and water sports activities. Visitors can enjoy jet skiing, parasailing, or simply relax by the shore. The nearby night market and dining options add to its appeal, making it a lively destination.",
             address: "Batu Ferringhi, Penang",
-            rating: "⭐⭐⭐⭐⭐",
+            rating: "5.0",
             image: BatuFerringhi
         }
 ]

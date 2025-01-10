@@ -1,22 +1,23 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
-import FoodAndBeverage from "./page/FoodAndBeverage";
-import NatureAndWildlife from "./page/NatureAndWildlife";
-import CultureAndHeritage from "./page/CultureAndHeritage"
-import Accommodations from "./page/Accommodations";
-import Beaches from "./page/Beaches";
-import FarmAndAnimals from "./page/FarmAndAnimals";
-import Themeparks from "./page/Themeparks";
-import Transportations from "./page/Transportations";
+import { beaches } from "./page";
+import { FandB } from "./page";
+import { NatureandWildlife } from "./page";
+import { CultureandHeritage } from "./page";
+import { accomodation } from "./page";
+import { FarmandAnimals } from "./page";
+import { themepark } from "./page";
+import { transportation } from "./page";
+import SubPage from "./page/SubPage";
 
 export const router = createBrowserRouter([
     {path: "/", element: <App/>},
-    {path: "/FoodAndBeverage", element: <FoodAndBeverage/>},
-    {path: "/natureandwildlife", element: <NatureAndWildlife/>},
-    {path: "/cultureandheritage", element: <CultureAndHeritage/>},
-    {path: "/accommodations", element: <Accommodations/>},
-    {path: "/beaches", element: <Beaches/>},
-    {path: "/farmandanimals", element: <FarmAndAnimals/>},
-    {path: "/themeparks", element: <Themeparks/>},
-    {path: "/transportations", element: <Transportations/>}
+    {path: "/FoodAndBeverage", element: <SubPage item={FandB}/>},
+    {path: "/natureandwildlife", element: <SubPage item={NatureandWildlife}/> },
+    {path: "/cultureandheritage", element: <SubPage item={CultureandHeritage}/>},
+    {path: "/accommodations", element: <SubPage item={accomodation}/>},
+    {path: "/beaches", element: <SubPage item={beaches}/>},
+    {path: "/farmandanimals", element: <SubPage item={FarmandAnimals}/>},
+    {path: "/themeparks", element:<SubPage item={themepark}/>},
+    {path: "/transportations", element: <SubPage item={transportation}/>}
 ]);

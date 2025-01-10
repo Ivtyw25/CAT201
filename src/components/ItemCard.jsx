@@ -1,20 +1,26 @@
+import { star } from "../assets/icons"
 // eslint-disable-next-line react/prop-types
 const ItemCard = ({title, description, rating, price, image, index, address}) => {
   return (
-    <div className="flex flex-col sm:flex-row shadow-2xl cursor-pointer hover:scale-105 transform transition-all duration-300 rounded-xl">
-      <div className="min-w-64 min-h-64 sm:w-48 sm:h-48 md:w-56 md:h-56 lg:w-64 lg:h-64 overflow-hidden rounded-lg">
-        <img
-          src={image}
-          alt={title}
-          className="w-full h-full object-cover shadow-xl"
-        />
-      </div>
-      <div className="ml-0 sm:ml-8 mt-4 sm:mt-0 flex flex-col p-4 gap-2">
-        <p className="font-bold font-montserrat text-lg">{index + 1}. {title}</p>
-        <p className="text-sm text-gray-500">{description}</p>
-        <p className="font-semibold text-lg">{rating} ⭐</p>
-        {address && (<p className="text-sm text-slate-gray"> {address}</p>)}
-        <p className="font-medium text-lg text-green-600">{price}</p>
+    <div className="p-4 sm:w-1/2 lg:w-1/3">
+      <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <img 
+            className="lg:h-72 max-lg:h-48 w-full object-cover object-center"
+            src={image} />
+        <div className="p-6 cursor-pointer hover:bg-indigo-700 h-full hover:text-white transition duration-300 ease-in">
+          <h2 className="text-xl font-medium mb-2">{index + 1}. {title}</h2>
+          <h1 className="text-base font-semibold mb-3">{address}</h1>
+          <div className="flex mt-3 flex-row items-center gap-2.5">
+              <img
+                  src={star}
+                  width={16}
+                  height={16}
+                  alt='rating star'
+                  className='object-contain m-0'
+              />
+            <p className=""> {rating} </p>
+          </div>
+        </div>
       </div>
     </div>
   )
