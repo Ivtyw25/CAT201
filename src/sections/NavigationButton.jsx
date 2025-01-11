@@ -33,17 +33,34 @@ const NavigationButtons= () => {
         <section ref={sectionRef} id="navigation" className="max-container w-full flex flex-col">
             <div className="flex flex-col">
                 <h1 className="text-3xl font-bold font-palanquin">
-                    Explore <span className="text-pale-purple"> popular </span> Experience
+                    Explore <span className="text-pale-purple"> Popular </span> Experience
                 </h1>
                 <div className="justify-between items-center gap-5 flex flex-row">
                     <p className="max-md:text-sm flex-1 mt-2 info-text">See what other travelers enjoy the most in Penang</p>
                     <NavButton route={"/FoodandBeverage"} label="See all"/>
                 </div>
             </div>
-            <div className="mt-10 gap-10 max-w-screen-lg flex-wrap flex">
-                {navButtons.map((item,index) => (
-                    <NavButton key={index} route={item.route} label={item.label} imgURL={item.imgURL}/>
-                ))}
+            <div className="mt-10 max-w-screen-lg">
+                {/* Laptop view: Maintain the original layout */}
+                <div className="hidden sm:flex flex-wrap gap-10">
+                    {navButtons.map((item, index) => (
+                        <NavButton key={index} route={item.route} label={item.label} imgURL={item.imgURL} />
+                    ))}
+                </div>
+
+                {/* Mobile view: Create a different layout */}
+                <div className="grid sm:hidden grid-cols-2 gap-5">
+                    <div className="flex flex-col gap-5">
+                        {navButtons.slice(0, 4).map((item, index) => (
+                            <NavButton key={index} route={item.route} label={item.label} imgURL={null} />
+                        ))}
+                    </div>
+                    <div className="flex flex-col gap-5">
+                        {navButtons.slice(4, 8).map((item, index) => (
+                            <NavButton key={index} route={item.route} label={item.label} imgURL={null} />
+                        ))}
+                    </div>
+                </div>
             </div>
             <Line/>
         </section>

@@ -23,10 +23,19 @@ const SideNav = () => {
             ))}
             </div>
         </div>
-        <div className="lg:hidden flex flex-wrap gap-10">
-            {navButtons.map((item, index) => (
-                <NavButton key={index} label={item.label} route={item.route}/>
+        <div className="lg:hidden grid grid-cols-2 gap-5 w-full">
+            {/* Left Column */}
+            <div className="flex flex-col gap-5">
+                {navButtons.slice(0, 4).map((item, index) => (
+                    <NavButton key={index} label={item.label} imgURL={null} route={item.route} />
                 ))}
+            </div>
+            {/* Right Column */}
+            <div className="flex flex-col gap-5">
+                {navButtons.slice(4, 8).map((item, index) => (
+                    <NavButton key={index} label={item.label} imgURL={null} route={item.route} />
+                ))}
+            </div>
         </div>
     </div>
   )
