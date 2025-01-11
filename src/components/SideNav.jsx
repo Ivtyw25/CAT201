@@ -23,6 +23,7 @@ const SideNav = () => {
             ))}
             </div>
         </div>
+        <h3 className="lg:hidden mb-2 font-bold text-lg font-montserrat">Other Things To do</h3>
         <div className="lg:hidden grid grid-cols-2 gap-5 w-full">
             {/* Left Column */}
             <div className="flex flex-col gap-5">
